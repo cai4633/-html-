@@ -67,6 +67,10 @@ header ul li a {
     color: #fff;
 }
 
+header ul li a:hover {
+    color: green;
+}
+
 main {
     background: #BBB1B1;
     overflow: hidden;
